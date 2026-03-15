@@ -1,0 +1,42 @@
+Main email
+------------------local e-mail
+Main password
+------------------password
+Provider/host
+------------------e-mail host
+Add/del. email
+------------------set e-mail
+Add/del. password
+------------------set password
+ADD EMAIL
+------------------button
+DELETE EMAIL
+------------------button
+Body text
+------------------e-mail body
+FILE UP.
+------------------button
+SELECT DIRECTORY
+------------------button
+UPLOAD
+------------------button
+File name
+------------------retrieve
+GET
+------------------button
+BROWSE
+------------------button
+DELETE
+------------------button
+DOWNLOAD ALL
+------------------button
+SYNC
+------------------button
+UP. ARRAY
+------------------button
+GET ARRAY
+------------------button
+ 
+------------------button
+SAVE CHANGES
+------------------button
